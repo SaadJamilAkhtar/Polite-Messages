@@ -1,0 +1,1 @@
+{"Contents":"2","Time-Sent":"1614686400","Message-Id":"bc18ecb5316e029af586fdec9fd533f413b16652bafe079b23e021a6d8ed69aa","From":"martin.brain@city.ac.uk","Topic":"#announcements","message":["Hello everyone!","This is the first message sent using PM."],"Subject":"Hello!"}
